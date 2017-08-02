@@ -1,17 +1,18 @@
-[
+{
+  "carddata":[
   {
-		"id": 1,
-		"label": "Atom Editor",
+    "id": 1,
+    "label": "Atom Editor",
     "desc":"Hackable Editor of 21st Century",
     "icon":"./img/atom-editor.png",
     "inRepo":false,
     "srcUrl":"https://api.github.com/repos/atom/atom/releases/latest",
     "type":"git-api-tar",
     "packageName":"atom-amd64.tar.gz"
-	},
+  },
   {
-  		"id": 2,
-  		"label": "VSCode",
+      "id": 2,
+      "label": "VSCode",
       "desc":"Code Editor from Microsoft",
       "icon":"./img/vscode.png",
       "inRepo":false,
@@ -40,3 +41,5 @@
     "packageName":"electron-react-boilerplate"
   }
 ]
+
+}
