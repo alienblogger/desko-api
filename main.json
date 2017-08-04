@@ -4,7 +4,7 @@
     "boilerplates":"/boilerplates/",
     "packages":"/packages/"
   },
-  "applications":["atom-editor","sublime=3"],
+  "applications":["atom-editor","sublime-3"],
   "boilerplates":[],
   "packages":[]
 }
